@@ -2,34 +2,27 @@
 
 I am a full stack engineer, living and working in London.
 
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently interested in
+<p align="center">
+⭐ <b>Full stack development</b>
+⭐ <b>API development</b>
+⭐ <b>CI/CD infrastructure</b> ⭐
+</p>
 
-* Full stack development
-* API development
-* CI/CD infrastructure
-
-</td>
-<td valign="top" width="50%">
 
 #### 🔭 Other interests
-
-* Amazon FBA
-* Freelancing on small projects
-* Search Engine Optimization (SEO)
-
-</td>
-</tr>
-</table>
+<p align="center">
+⭐ <b>Amazon FBA</b>
+⭐ <b>Freelancing on small projects</b>
+⭐ <b>Search Engine Optimization (SEO)</b> ⭐
+</p>
 
 
 #### 🛠️ Most used technologies:
 
 <p align="center">
-  <a href='https://sentry.io/welcome/'>
+  <a href='https://linux.org/'>
   	<img src="https://github.com/chris220688/chris220688/blob/master/icons/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
   </a>
   <a href='https://kubernetes.io/'>
@@ -60,7 +53,7 @@ I am a full stack engineer, living and working in London.
 #### 📭 Where to reach me:
 
 <p align="center">
-	<a href='www.linkedin.com/in/christos-liontos-252b7485'>
+	<a href='https://www.linkedin.com/in/christos-liontos-252b7485'>
 		<img src="https://github.com/chris220688/chris220688/blob/master/icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
 	</a>
 	<a href='mailto: clion2206@gmail.com'>
