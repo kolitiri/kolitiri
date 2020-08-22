@@ -4,15 +4,15 @@ I am a full stack engineer, living and working in London.
 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently interested in
-* **Full stack development**
-* **API development**
-* **CI/CD infrastructure**
+* Full stack development
+* API development
+* CI/CD infrastructure
 
 
 #### 🔭 Other interests
-* **Amazon FBA**
-* **Freelancing on small projects**
-* **Search Engine Optimization (SEO)**
+* Amazon FBA
+* Freelancing on small projects
+* Search Engine Optimization (SEO)
 
 
 #### 🛠️ Most used technologies:
