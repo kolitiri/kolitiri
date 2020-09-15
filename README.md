@@ -10,7 +10,6 @@ I am a full stack engineer, living and working in London.
 
 
 #### 🔭 Other interests
-* Amazon FBA
 * Freelancing on small projects
 * Search Engine Optimization (SEO)
 
