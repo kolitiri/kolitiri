@@ -4,14 +4,14 @@ I am a full stack engineer, living and working in London.
 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently interested in
-* Full stack development
+* Full stack development with Python and React
 * API development
 * CI/CD infrastructure
 
 
 #### 🔭 Other interests
 * Freelancing on small projects
-* Search Engine Optimization (SEO)
+* Improving my unsuccessful <a href='https://findsources.co.uk/'>findsources.co.uk</a> website 💪 🤓 💪
 
 
 #### 🛠️ Most used technologies:
@@ -54,6 +54,9 @@ I am a full stack engineer, living and working in London.
 	<a href='mailto: christos.liontos.pr@gmail.com'>
 		<img src="https://github.com/kolitiri/kolitiri/blob/master/icons/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
 	</a>
+  <a href='https://twitter.com/ChristosLiontos'>
+    <img src="https://github.com/kolitiri/kolitiri/blob/master/icons/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 #### 📃 Want to know more?
