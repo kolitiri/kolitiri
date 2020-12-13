@@ -55,7 +55,7 @@ I am a full stack engineer, living and working in London.
 		<img src="https://github.com/kolitiri/kolitiri/blob/master/icons/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
 	</a>
   <a href='https://twitter.com/ChristosLiontos'>
-    <img src="https://github.com/kolitiri/kolitiri/blob/master/icons/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/kolitiri/kolitiri/blob/master/icons/twitter.svg" alt="twitter" style="vertical-align:super; margin:4px" width="40" height="40">
   </a>
 </p>
 
