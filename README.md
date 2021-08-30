@@ -11,8 +11,6 @@ I am a full stack engineer, living and working in London.
 
 #### 🔭 Other interests
 * Freelancing on small projects
-* Improving my unsuccessful <a href='https://findsources.co.uk/'>findsources.co.uk</a> website 💪 🤓 💪
-
 
 #### 🛠️ Most used technologies:
 
