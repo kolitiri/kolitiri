@@ -11,6 +11,7 @@ I am a full stack engineer, living and working in London.
 
 #### 🔭 Other interests
 * Freelancing on small projects
+* Blockchain
 
 #### 🛠️ Most used technologies:
 
