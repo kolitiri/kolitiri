@@ -61,5 +61,5 @@ I am a full stack engineer, living and working in London.
 #### 📃 Want to know more?
 
 <p align="center">
-  ⚡ Head over to my online CV <a href='https://christos-liontos.herokuapp.com/'>here</a> ⚡
+  ⚡ Head over to my online CV <a href='https://kolitiri.github.io/christos-liontos/'>here</a> ⚡
 </p>
